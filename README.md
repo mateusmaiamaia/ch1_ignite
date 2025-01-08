@@ -1,8 +1,9 @@
 # Capítulo 1 ignite
 
-Este é um projeto simples de gerenciamento de tarefas, onde você pode realizar operações como criar, listar, atualizar, marcar como concluída e deletar tarefas. O backend do projeto é construído usando Node.js e as rotas são gerenciadas manualmente com expressões regulares para a correspondência de URLs. Os testes são realizados com Jest e Supertest.
+Este é um projeto simples de gerenciamento de tarefas, oque é uma solução para prática par
+a o primeiro capítulo da trilha de node do curso ignite, realizado pela rocketseat.
 
-## Funcionalidades
+## Funcionalidade
 
 - **GET /tasks**: Retorna uma lista de todas as tarefas.
 - **POST /tasks**: Cria uma nova tarefa.
